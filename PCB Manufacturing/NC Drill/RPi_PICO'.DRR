@@ -1,0 +1,29 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: RPi_PICO'.PcbDoc   9/25/2022  3:11:38 PM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : RPi_PICO'-RoundHoles.TXT
+ASCII SlotHoles File : RPi_PICO'-SlotHoles.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      0.25mm (10mil)                                            Round             1         PTH        0.00mm (0.00inch)
+T2      0.3mm (12mil)                                             Round             110       PTH        0.00mm (0.00inch)
+T3      0.65mm (26mil)                                            Slot              4         PTH        0.00mm (0.00inch)
+T4      1mm (39mil)                                               Round             86        PTH        0.00mm (0.00inch)
+T5      0.7mm (28mil)                                             Round             2         NPTH       0.00mm (0.00inch)
+T6      2.1mm (83mil)                                             Round             4         NPTH       0.00mm (0.00inch)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              207
+
+Two holes at same point : 6
+-----------------------
+313,61
+313,1
+1,1954
+61,1954
+765,1954
+825,1954
+
+Total Processing Time (hh:mm:ss) : 00:00:01
